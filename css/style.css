@@ -152,7 +152,7 @@ header li {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 60px;
+    padding: 60px 10px;
 }
 
 #donate h1, h2 {
