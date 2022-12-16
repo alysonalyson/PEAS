@@ -103,7 +103,7 @@ header ul {
 }
 
 header li {
-    margin: 0 20px;
+    margin: 0 15px;
 }
 
 /* Hero */
@@ -112,7 +112,7 @@ header li {
     max-width: 100%;
     color: white;
     position: relative;
-    background-color: #D8E1DE;
+    background-color: #355E3B;
 }
 
 .hero-img {
@@ -129,8 +129,9 @@ header li {
 
 #hero h2 {
     position: absolute;
-    top: 450px;
+    top: 445px;
     left: 30px;
+    color: white;
 }
 
 #heart {
@@ -141,9 +142,9 @@ header li {
 
 #hero p {
     position: absolute;
-    top: 510px;
+    top: 500px;
     left: 30px;
-    width: 310px;
+    width: 285px;
 }
 /* Donate */
 #donate {
